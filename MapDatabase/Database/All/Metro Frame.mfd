@@ -1,0 +1,27 @@
+{
+    "asia":{
+        "china":{
+             "beijing":,
+             "Shanghai",
+			 "Guangzhou",
+			 "Xiamen"
+            },
+        "Japan":{
+		     "Tokyo"
+			},
+        "Korea":{
+		     "Seoul",
+		     "Daegou"
+		}
+    "Europe":{
+        "France":{
+             "Paris",
+			 "Xiamen"
+            },
+        "Japan":{
+		     "Tokyo"
+			},
+        "Russia":{"
+		      "Moscow"
+		    }
+}
