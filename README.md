@@ -3,6 +3,14 @@ Maybe the best Metro application in the World
 
 若要使用其他语言的README文件，请点击[这里](./Docs/Readme/zh_CN.md)
 
+## 重新填？
+这种东西我记得以前日本的一些乘换案内会有提示，建议从X门上啊，从X门下啊这样子
+当时记得三年前搞MetroFrame的时候，也是想做一个能展示这种数据的东西（挠头）
+然后当时还在骂，为啥国内的换乘从来不给这种数据
+我那旧坑就又点燃了欲望了啊2333
+“属于车迷的换乘APP”
+
+
 
 
 ## 造轮子，造个P的轮子
@@ -19,47 +27,8 @@ https://www.openmetromaps.org/
 
 https://www.openmetromaps.org/
 
-https://www.openmetromaps.org/
 
-https://www.openmetromaps.org/
 
-https://www.openmetromaps.org/
-
-https://www.openmetromaps.org/
-
-https://www.openmetromaps.org/
-
-https://www.openmetromaps.org/
-
-https://www.openmetromaps.org/
-
-https://www.openmetromaps.org/
-
-https://www.openmetromaps.org/
-
-https://www.openmetromaps.org/
-
-https://www.openmetromaps.org/
-
-https://www.openmetromaps.org/
-
-https://www.openmetromaps.org/
-
-https://www.openmetromaps.org/
-
-https://www.openmetromaps.org/
-
-https://www.openmetromaps.org/
-
-https://www.openmetromaps.org/
-
-https://www.openmetromaps.org/
-
-https://www.openmetromaps.org/
-
-https://www.openmetromaps.org/
-
-https://www.openmetromaps.org/
 
 
 
@@ -86,8 +55,6 @@ https://www.openmetromaps.org/
 现在，给您这个实现过去期望的机会！
 加入Metro Frame开源项目组！
 和我们一同绘制世界上最详细最完善的地铁地图，和我们一起开发最精悍的信息框架！
-
-官方QQ群：862894200
 
 
 
@@ -128,12 +95,5 @@ BUCT计科系的几位努力敲代码的学长们
 
 ## 联系我们
 
-[Metro Frame 官方QQ讨论群](<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=e885023e2c1be1d7029f1df09c4bb914c33e654b159307044f1f86c138665113"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Metro Frame Users" title="Metro Frame Users"></a>)
-
-或扫描下方二维码进入
-
-<p align="center">
-<a href="https://github.com/LaoshuBaby/Metro-Frame">
-    <img src="https://github.com/LaoshuBaby/Metro-Frame/edit/master/Metro_Frame_Users.jpg" alt="">
-  </a>
+issue见
 
